@@ -5,3 +5,8 @@ estoy practicando platzi
 y tengo 33 años 
 
 y naci en peru
+
+modificacion en master
+
+y migracion a cabecera
+
